@@ -100,7 +100,8 @@ Current language:
 Future additions may include:
 
 - C++
-- And more if necessary
+
+Additional languages may be introduced as my learning journey progresses.
 
 ---
 
@@ -119,6 +120,8 @@ The long-term focus is on developing:
 - Clean code implementation
 - Consistent problem-solving habits
 
+Solutions are committed only after arriving at a correct and well-understood implementation rather than simply obtaining an accepted submission.
+
 ---
 
 ## Repository Notes
@@ -127,11 +130,11 @@ This repository was created on **04 July 2026**.
 
 Some problems solved prior to the creation of this repository will be migrated and organized here retrospectively to maintain a complete record of my problem-solving journey.
 
-Future solutions will be added as they are completed.
+Future solutions will be added as they are solved and documented.
 
 ---
 
 ## Long-Term Goal
 
-Build a strong Data Structures and Algorithms foundation through consistent practice and gradually develop interview-ready problem-solving skills over the course of my undergraduate studies.
+Build strong algorithmic thinking through consistent problem solving and progressively develop interview-ready Data Structures and Algorithms skills throughout my undergraduate studies.
 
