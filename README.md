@@ -27,15 +27,15 @@ Problems are organized by their difficulty.
 Each solution follows the naming convention:
 
 ```text
-<Problem Number> - <Problem Name>.py
+<Problem Number>-<problem-name>.py
 ```
 
 Example:
 
 ```text
-0001 - Two Sum.py
-0088 - Merge Sorted Array.py
-0242 - Valid Anagram.py
+0001-two-sum.py
+0088-merge-sorted-array.py
+0242-valid-anagram.py
 ```
 
 ---
