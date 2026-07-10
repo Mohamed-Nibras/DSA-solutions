@@ -10,9 +10,9 @@ The primary objective of these problems is to strengthen algorithmic fundamental
 
 | Difficulty | Solved |
 |------------|--------|
-| Easy | **14** |
+| Easy | **15** |
 
-**Last Updated:** 05 July 2026
+**Last Updated:** 10 July 2026
 
 ---
 
@@ -34,6 +34,8 @@ The primary objective of these problems is to strengthen algorithmic fundamental
 | 0283 | Move Zeroes | Write Pointer |
 | 0383 | Ransom Note | Frequency Map |
 | 0392 | Is Subsequence | Two Pointers |
+| 0349 | Intersection of Two Arrays | Set / Set Membership |
+
 
 ---
 

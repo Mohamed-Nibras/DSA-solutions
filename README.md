@@ -59,6 +59,7 @@ This repository is dedicated to building strong foundations in:
 - Graphs
 - Greedy Algorithms
 - Backtracking
+- Membership checking in data structures
 - And many more...
 
 The primary objective is to recognize reusable algorithmic patterns and develop structured approaches to solving problems efficiently.
@@ -69,10 +70,10 @@ The primary objective is to recognize reusable algorithmic patterns and develop 
 
 | Difficulty | Solved |
 |------------|--------|
-| Easy | 14 |
+| Easy | 15 |
 | Medium | 0 |
 | Hard | 0 |
-| **Total** | **14** |
+| **Total** | **15** |
 
 Detailed problem tracking, patterns learned, and progress for each difficulty are maintained in the respective folder READMEs.
 
