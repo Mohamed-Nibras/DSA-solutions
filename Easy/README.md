@@ -10,9 +10,9 @@ The primary objective of these problems is to strengthen algorithmic fundamental
 
 | Difficulty | Solved |
 |------------|--------|
-| Easy | **15** |
+| Easy | **16** |
 
-**Last Updated:** 10 July 2026
+**Last Updated:** 22 July 2026
 
 ---
 
@@ -35,6 +35,7 @@ The primary objective of these problems is to strengthen algorithmic fundamental
 | 0383 | Ransom Note | Frequency Map |
 | 0392 | Is Subsequence | Two Pointers |
 | 0349 | Intersection of Two Arrays | Set / Set Membership |
+| 0219 | Contains Duplicate II | Hash Map / Last Seen Index Tracking |
 
 
 ---
@@ -57,6 +58,7 @@ Through these problems, the following reusable patterns have been learned and re
 - In-place Array Manipulation
 - Reverse Traversal
 - Boundary Handling
+- Last Seen Index Tracking
 
 This list will continue to expand as new patterns are encountered.
 
