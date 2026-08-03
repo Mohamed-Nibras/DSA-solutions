@@ -10,7 +10,7 @@ The primary objective of these problems is to strengthen algorithmic fundamental
 
 | Difficulty | Solved |
 |------------|--------|
-| Easy | **18** |
+| Easy | **19** |
 
 **Last Updated:** 02 August 2026
 
@@ -38,7 +38,7 @@ The primary objective of these problems is to strengthen algorithmic fundamental
 | 0219 | Contains Duplicate II | Hash Map / Last Seen Index Tracking |
 | 0290 | Word Pattern | Hash Map / Bidirectional Mapping |
 | 0202 | Happy Number | Set / Cycle Detection |
-
+| 0771 | Jewels and Stones | Set / Set Membership |
 
 
 ---
