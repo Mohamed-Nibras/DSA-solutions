@@ -10,9 +10,9 @@ The primary objective of these problems is to strengthen algorithmic fundamental
 
 | Difficulty | Solved |
 |------------|--------|
-| Easy | **17** |
+| Easy | **18** |
 
-**Last Updated:** 24 July 2026
+**Last Updated:** 02 August 2026
 
 ---
 
@@ -37,6 +37,7 @@ The primary objective of these problems is to strengthen algorithmic fundamental
 | 0349 | Intersection of Two Arrays | Set / Set Membership |
 | 0219 | Contains Duplicate II | Hash Map / Last Seen Index Tracking |
 | 0290 | Word Pattern | Hash Map / Bidirectional Mapping |
+| 0202 | Happy Number | Set / Cycle Detection |
 
 
 
@@ -62,6 +63,8 @@ Through these problems, the following reusable patterns have been learned and re
 - Boundary Handling
 - Last Seen Index Tracking
 - Bidirectional Mapping
+- Cycle Detection
+- Digit Processing
 
 This list will continue to expand as new patterns are encountered.
 
