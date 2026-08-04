@@ -10,9 +10,9 @@ The primary objective of these problems is to strengthen algorithmic fundamental
 
 | Difficulty | Solved |
 |------------|--------|
-| Easy | **19** |
+| Easy | **20** |
 
-**Last Updated:** 02 August 2026
+**Last Updated:** 04 August 2026
 
 ---
 
@@ -39,7 +39,7 @@ The primary objective of these problems is to strengthen algorithmic fundamental
 | 0290 | Word Pattern | Hash Map / Bidirectional Mapping |
 | 0202 | Happy Number | Set / Cycle Detection |
 | 0771 | Jewels and Stones | Set / Set Membership |
-
+| 0724 | Find Pivot Index | Running Sum / Prefix Sum |
 
 ---
 
@@ -65,6 +65,8 @@ Through these problems, the following reusable patterns have been learned and re
 - Bidirectional Mapping
 - Cycle Detection
 - Digit Processing
+- Running Sum
+- Prefix Sum
 
 This list will continue to expand as new patterns are encountered.
 
