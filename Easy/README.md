@@ -10,9 +10,9 @@ The primary objective of these problems is to strengthen algorithmic fundamental
 
 | Difficulty | Solved |
 |------------|--------|
-| Easy | **20** |
+| Easy | **21** |
 
-**Last Updated:** 04 August 2026
+**Last Updated:** 31 August 2026
 
 ---
 
@@ -40,6 +40,7 @@ The primary objective of these problems is to strengthen algorithmic fundamental
 | 0202 | Happy Number | Set / Cycle Detection |
 | 0771 | Jewels and Stones | Set / Set Membership |
 | 0724 | Find Pivot Index | Running Sum / Prefix Sum |
+| 0136 | Single Number | Bit Manipulation / XOR |
 
 ---
 
@@ -67,6 +68,8 @@ Through these problems, the following reusable patterns have been learned and re
 - Digit Processing
 - Running Sum
 - Prefix Sum
+- Bit Manipulation
+- XOR
 
 This list will continue to expand as new patterns are encountered.
 
