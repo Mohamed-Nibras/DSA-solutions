@@ -10,9 +10,9 @@ The primary objective of these problems is to strengthen algorithmic fundamental
 
 | Difficulty | Solved |
 |------------|--------|
-| Easy | **21** |
+| Easy | **22** |
 
-**Last Updated:** 31 August 2026
+**Last Updated:** 1 September 2026
 
 ---
 
@@ -41,6 +41,7 @@ The primary objective of these problems is to strengthen algorithmic fundamental
 | 0771 | Jewels and Stones | Set / Set Membership |
 | 0724 | Find Pivot Index | Running Sum / Prefix Sum |
 | 0136 | Single Number | Bit Manipulation / XOR |
+| 0387 | First Unique Character in a String | Frequency Map / String Traversal |
 
 ---
 
