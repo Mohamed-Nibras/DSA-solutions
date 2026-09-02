@@ -10,9 +10,9 @@ The primary objective of these problems is to strengthen algorithmic fundamental
 
 | Difficulty | Solved |
 |------------|--------|
-| Easy | **22** |
+| Easy | **23** |
 
-**Last Updated:** 1 September 2026
+**Last Updated:** 2 September 2026
 
 ---
 
@@ -42,6 +42,7 @@ The primary objective of these problems is to strengthen algorithmic fundamental
 | 0724 | Find Pivot Index | Running Sum / Prefix Sum |
 | 0136 | Single Number | Bit Manipulation / XOR |
 | 0387 | First Unique Character in a String | Frequency Map / String Traversal |
+| 0680 | Valid Palindrome II | Two Pointers / Palindrome Checking |
 
 ---
 
@@ -71,6 +72,8 @@ Through these problems, the following reusable patterns have been learned and re
 - Prefix Sum
 - Bit Manipulation
 - XOR
+- Palindrome Checking
+- Greedy Choice
 
 This list will continue to expand as new patterns are encountered.
 
