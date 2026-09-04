@@ -10,9 +10,9 @@ The primary objective of these problems is to strengthen algorithmic fundamental
 
 | Difficulty | Solved |
 |------------|--------|
-| Easy | **23** |
+| Easy | **24** |
 
-**Last Updated:** 2 September 2026
+**Last Updated:** 4 September 2026
 
 ---
 
@@ -43,6 +43,7 @@ The primary objective of these problems is to strengthen algorithmic fundamental
 | 0136 | Single Number | Bit Manipulation / XOR |
 | 0387 | First Unique Character in a String | Frequency Map / String Traversal |
 | 0680 | Valid Palindrome II | Two Pointers / Palindrome Checking |
+| 0389 | Find the Difference | Frequency Map / Character Frequency Counting |
 
 ---
 
@@ -74,6 +75,7 @@ Through these problems, the following reusable patterns have been learned and re
 - XOR
 - Palindrome Checking
 - Greedy Choice
+- Character Frequency Counting
 
 This list will continue to expand as new patterns are encountered.
 
