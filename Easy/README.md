@@ -10,9 +10,9 @@ The primary objective of these problems is to strengthen algorithmic fundamental
 
 | Difficulty | Solved |
 |------------|--------|
-| Easy | **25** |
+| Easy | **26** |
 
-**Last Updated:** 5 September 2026
+**Last Updated:** 6 September 2026
 
 ---
 
@@ -45,6 +45,7 @@ The primary objective of these problems is to strengthen algorithmic fundamental
 | 0680 | Valid Palindrome II | Two Pointers / Palindrome Checking |
 | 0389 | Find the Difference | Frequency Map / Character Frequency Counting |
 | 0657 | Robot Return to Origin | Coordinate Tracking / Simulation |
+| 0058 | Length of Last Word | String Processing / String Manipulation |
 
 ---
 
@@ -80,6 +81,8 @@ Through these problems, the following reusable patterns have been learned and re
 - Coordinate Tracking
 - Simulation
 - Two-Dimensional Movement
+- String Processing
+- String Manipulation
 
 This list will continue to expand as new patterns are encountered.
 

@@ -70,10 +70,10 @@ The primary objective is to recognize reusable algorithmic patterns and develop 
 
 | Difficulty | Solved |
 |------------|--------|
-| Easy | 25 |
+| Easy | 26 |
 | Medium | 0 |
 | Hard | 0 |
-| **Total** | **25** |
+| **Total** | **26** |
 
 Detailed problem tracking, patterns learned, and progress for each difficulty are maintained in the respective folder READMEs.
 
