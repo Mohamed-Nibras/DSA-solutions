@@ -10,9 +10,9 @@ The primary objective of these problems is to strengthen algorithmic fundamental
 
 | Difficulty | Solved |
 |------------|--------|
-| Easy | **26** |
+| Easy | **27** |
 
-**Last Updated:** 6 September 2026
+**Last Updated:** 7 September 2026
 
 ---
 
@@ -46,6 +46,7 @@ The primary objective of these problems is to strengthen algorithmic fundamental
 | 0389 | Find the Difference | Frequency Map / Character Frequency Counting |
 | 0657 | Robot Return to Origin | Coordinate Tracking / Simulation |
 | 0058 | Length of Last Word | String Processing / String Manipulation |
+| 0028 | Find the Index of the First Occurrence in a String | Brute Force Substring Search / Two Pointers |
 
 ---
 
@@ -83,6 +84,8 @@ Through these problems, the following reusable patterns have been learned and re
 - Two-Dimensional Movement
 - String Processing
 - String Manipulation
+- Brute Force Substring Search
+- String Matching
 
 This list will continue to expand as new patterns are encountered.
 
