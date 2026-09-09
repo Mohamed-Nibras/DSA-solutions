@@ -10,9 +10,9 @@ The primary objective of these problems is to strengthen algorithmic fundamental
 
 | Difficulty | Solved |
 |------------|--------|
-| Easy | **28** |
+| Easy | **29** |
 
-**Last Updated:** 8 September 2026
+**Last Updated:** 9 September 2026
 
 ---
 
@@ -48,6 +48,7 @@ The primary objective of these problems is to strengthen algorithmic fundamental
 | 0058 | Length of Last Word | String Processing / String Manipulation |
 | 0028 | Find the Index of the First Occurrence in a String | Brute Force Substring Search / Two Pointers |
 | 0258 | Add Digits | Digit Processing / Iterative Simulation |
+| 0268 | Missing Number | Set Membership / Range Traversal |
 
 ---
 
@@ -88,6 +89,7 @@ Through these problems, the following reusable patterns have been learned and re
 - Brute Force Substring Search
 - String Matching
 - Iterative Simulation
+- Range Traversal
 
 This list will continue to expand as new patterns are encountered.
 
