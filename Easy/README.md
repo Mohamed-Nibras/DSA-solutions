@@ -10,9 +10,9 @@ The primary objective of these problems is to strengthen algorithmic fundamental
 
 | Difficulty | Solved |
 |------------|--------|
-| Easy | **30** |
+| Easy | **31** |
 
-**Last Updated:** 10 September 2026
+**Last Updated:** 11 September 2026
 
 ---
 
@@ -50,6 +50,7 @@ The primary objective of these problems is to strengthen algorithmic fundamental
 | 0258 | Add Digits | Digit Processing / Iterative Simulation |
 | 0268 | Missing Number | Set Membership / Range Traversal |
 | 0448 | Find All Numbers Disappeared in an Array | Set Membership / Range Traversal |
+| 0409 | Longest Palindrome | Frequency Counting / Palindrome Construction |
 
 ---
 
@@ -92,6 +93,7 @@ Through these problems, the following reusable patterns have been learned and re
 - Iterative Simulation
 - Range Traversal
 - Set Membership
+- Palindrome Construction
 
 This list will continue to expand as new patterns are encountered.
 
