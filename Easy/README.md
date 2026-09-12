@@ -10,9 +10,9 @@ The primary objective of these problems is to strengthen algorithmic fundamental
 
 | Difficulty | Solved |
 |------------|--------|
-| Easy | **31** |
+| Easy | **32** |
 
-**Last Updated:** 11 September 2026
+**Last Updated:** 12 September 2026
 
 ---
 
@@ -51,6 +51,7 @@ The primary objective of these problems is to strengthen algorithmic fundamental
 | 0268 | Missing Number | Set Membership / Range Traversal |
 | 0448 | Find All Numbers Disappeared in an Array | Set Membership / Range Traversal |
 | 0409 | Longest Palindrome | Frequency Counting / Palindrome Construction |
+| 0459 | Repeated Substring Pattern | Brute Force / Prefix Testing |
 
 ---
 
@@ -94,6 +95,8 @@ Through these problems, the following reusable patterns have been learned and re
 - Range Traversal
 - Set Membership
 - Palindrome Construction
+- Prefix Testing
+- Repeated Pattern Checking
 
 This list will continue to expand as new patterns are encountered.
 
