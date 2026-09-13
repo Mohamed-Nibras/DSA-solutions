@@ -10,9 +10,9 @@ The primary objective of these problems is to strengthen algorithmic fundamental
 
 | Difficulty | Solved |
 |------------|--------|
-| Easy | **32** |
+| Easy | **33** |
 
-**Last Updated:** 12 September 2026
+**Last Updated:** 13 September 2026
 
 ---
 
@@ -52,6 +52,7 @@ The primary objective of these problems is to strengthen algorithmic fundamental
 | 0448 | Find All Numbers Disappeared in an Array | Set Membership / Range Traversal |
 | 0409 | Longest Palindrome | Frequency Counting / Palindrome Construction |
 | 0459 | Repeated Substring Pattern | Brute Force / Prefix Testing |
+| 0344 | Reverse String | Two Pointers / In-Place Swapping |
 
 ---
 
@@ -97,6 +98,7 @@ Through these problems, the following reusable patterns have been learned and re
 - Palindrome Construction
 - Prefix Testing
 - Repeated Pattern Checking
+- In-Place Swapping
 
 This list will continue to expand as new patterns are encountered.
 
