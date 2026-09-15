@@ -10,9 +10,9 @@ The primary objective of these problems is to strengthen algorithmic fundamental
 
 | Difficulty | Solved |
 |------------|--------|
-| Easy | **34** |
+| Easy | **35** |
 
-**Last Updated:** 14 September 2026
+**Last Updated:** 15 September 2026
 
 ---
 
@@ -54,6 +54,7 @@ The primary objective of these problems is to strengthen algorithmic fundamental
 | 0459 | Repeated Substring Pattern | Brute Force / Prefix Testing |
 | 0344 | Reverse String | Two Pointers / In-Place Swapping |
 | 0557 | Reverse Words in a String III | String Manipulation / String Reversal |
+| 0345 | Reverse Vowels of a String | Two Pointers / In-Place Swapping |
 
 ---
 
