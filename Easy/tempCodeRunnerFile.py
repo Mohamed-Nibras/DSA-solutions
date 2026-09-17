@@ -1,2 +1,3 @@
-    if store[-1] == "R" or store[-1] == "U":
-                        y -= 1
+    if freq[i] != 0:
+                    result.append(i)
+                    freq[i] -= 1
