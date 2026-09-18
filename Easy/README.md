@@ -10,9 +10,9 @@ The primary objective of these problems is to strengthen algorithmic fundamental
 
 | Difficulty | Solved |
 |------------|--------|
-| Easy | **37** |
+| Easy | **38** |
 
-**Last Updated:** 17 September 2026
+**Last Updated:** 18 September 2026
 
 ---
 
@@ -57,6 +57,7 @@ The primary objective of these problems is to strengthen algorithmic fundamental
 | 0345 | Reverse Vowels of a String | Two Pointers / In-Place Swapping |
 | 1512 | Number of Good Pairs | Frequency Counting / Hash Map |
 | 0350 | Intersection of Two Arrays II | Frequency Counting / Hash Map |
+| 0599 | Minimum Index Sum of Two Lists | Hash Map / Index Tracking |
 
 ---
 
@@ -103,6 +104,7 @@ Through these problems, the following reusable patterns have been learned and re
 - Prefix Testing
 - Repeated Pattern Checking
 - In-Place Swapping
+- Index Tracking
 
 This list will continue to expand as new patterns are encountered.
 
