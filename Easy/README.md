@@ -10,9 +10,9 @@ The primary objective of these problems is to strengthen algorithmic fundamental
 
 | Difficulty | Solved |
 |------------|--------|
-| Easy | **38** |
+| Easy | **39** |
 
-**Last Updated:** 19 September 2026
+**Last Updated:** 20 September 2026
 
 ---
 
@@ -58,6 +58,7 @@ The primary objective of these problems is to strengthen algorithmic fundamental
 | 1512 | Number of Good Pairs | Frequency Counting / Hash Map |
 | 0350 | Intersection of Two Arrays II | Frequency Counting / Hash Map |
 | 0599 | Minimum Index Sum of Two Lists | Hash Map / Index Tracking |
+| 0704 | Binary Search | Binary Search | Array / Binary search |
 
 ---
 
@@ -105,6 +106,7 @@ Through these problems, the following reusable patterns have been learned and re
 - Repeated Pattern Checking
 - In-Place Swapping
 - Index Tracking
+- Binary Search
 
 This list will continue to expand as new patterns are encountered.
 
