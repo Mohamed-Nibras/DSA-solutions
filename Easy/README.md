@@ -10,9 +10,9 @@ The primary objective of these problems is to strengthen algorithmic fundamental
 
 | Difficulty | Solved |
 |------------|--------|
-| Easy | **39** |
+| Easy | **40** |
 
-**Last Updated:** 20 September 2026
+**Last Updated:** 21 September 2026
 
 ---
 
@@ -59,6 +59,7 @@ The primary objective of these problems is to strengthen algorithmic fundamental
 | 0350 | Intersection of Two Arrays II | Frequency Counting / Hash Map |
 | 0599 | Minimum Index Sum of Two Lists | Hash Map / Index Tracking |
 | 0704 | Binary Search | Binary Search | Array / Binary search |
+| 0013 | Roman to Integer | Hash Map / String Traversal |
 
 ---
 
