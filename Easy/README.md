@@ -10,9 +10,9 @@ The primary objective of these problems is to strengthen algorithmic fundamental
 
 | Difficulty | Solved |
 |------------|--------|
-| Easy | **40** |
+| Easy | **41** |
 
-**Last Updated:** 21 September 2026
+**Last Updated:** 22 September 2026
 
 ---
 
@@ -60,6 +60,7 @@ The primary objective of these problems is to strengthen algorithmic fundamental
 | 0599 | Minimum Index Sum of Two Lists | Hash Map / Index Tracking |
 | 0704 | Binary Search | Binary Search | Array / Binary search |
 | 0013 | Roman to Integer | Hash Map / String Traversal |
+| 0844 | Backspace String Compare | Stack / LIFO |
 
 ---
 
@@ -74,7 +75,7 @@ Through these problems, the following reusable patterns have been learned and re
 - Set
 - Two Pointers
 - Three Pointers
-- Stack
+- Stack / LIFO
 - Write Pointer
 - Running Minimum (Greedy)
 - String Traversal
