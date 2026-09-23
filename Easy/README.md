@@ -10,9 +10,9 @@ The primary objective of these problems is to strengthen algorithmic fundamental
 
 | Difficulty | Solved |
 |------------|--------|
-| Easy | **41** |
+| Easy | **42** |
 
-**Last Updated:** 22 September 2026
+**Last Updated:** 23 September 2026
 
 ---
 
@@ -61,6 +61,7 @@ The primary objective of these problems is to strengthen algorithmic fundamental
 | 0704 | Binary Search | Binary Search | Array / Binary search |
 | 0013 | Roman to Integer | Hash Map / String Traversal |
 | 0844 | Backspace String Compare | Stack / LIFO |
+| 0977 | Squares of a Sorted Array | Two Pointers |
 
 ---
 
