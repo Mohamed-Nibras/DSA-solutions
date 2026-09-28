@@ -10,9 +10,9 @@ The primary objective of these problems is to strengthen algorithmic fundamental
 
 | Difficulty | Solved |
 |------------|--------|
-| Easy | **43** |
+| Easy | **44** |
 
-**Last Updated:** 27 September 2026
+**Last Updated:** 28 September 2026
 
 ---
 
@@ -63,6 +63,7 @@ The primary objective of these problems is to strengthen algorithmic fundamental
 | 0844 | Backspace String Compare | Stack / LIFO |
 | 0977 | Squares of a Sorted Array | Two Pointers |
 | 0027 | Remove Element | Two Pointers / Write Pointer |
+| 0605 | Can Place Flowers | Greedy / Local Placement |
 
 ---
 
