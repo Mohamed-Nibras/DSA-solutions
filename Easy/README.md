@@ -10,9 +10,9 @@ The primary objective of these problems is to strengthen algorithmic fundamental
 
 | Difficulty | Solved |
 |------------|--------|
-| Easy | **44** |
+| Easy | **45** |
 
-**Last Updated:** 28 September 2026
+**Last Updated:** 29 September 2026
 
 ---
 
@@ -64,6 +64,7 @@ The primary objective of these problems is to strengthen algorithmic fundamental
 | 0977 | Squares of a Sorted Array | Two Pointers |
 | 0027 | Remove Element | Two Pointers / Write Pointer |
 | 0605 | Can Place Flowers | Greedy / Local Placement |
+| 0206 | Reverse Linked List | Linked List Reversal / Previous-Current-Next |
 
 ---
 
@@ -112,6 +113,12 @@ Through these problems, the following reusable patterns have been learned and re
 - In-Place Swapping
 - Index Tracking
 - Binary Search
+- Linked List Traversal
+- Fast & Slow Pointers
+- Linked List Reversal
+- Previous / Current / Next Reference Manipulation
+- Adjacent Node Comparison
+- In-Place Node Deletion / Reference Skipping
 
 This list will continue to expand as new patterns are encountered.
 
