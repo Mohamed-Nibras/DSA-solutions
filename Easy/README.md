@@ -12,7 +12,7 @@ The primary objective of these problems is to strengthen algorithmic fundamental
 |------------|--------|
 | Easy | **45** |
 
-**Last Updated:** 29 September 2026
+**Last Updated:**   September 2026
 
 ---
 
