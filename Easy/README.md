@@ -10,9 +10,9 @@ The primary objective of these problems is to strengthen algorithmic fundamental
 
 | Difficulty | Solved |
 |------------|--------|
-| Easy | **45** |
+| Easy | **46** |
 
-**Last Updated:**   September 2026
+**Last Updated:** 01 October 2026
 
 ---
 
@@ -65,6 +65,7 @@ The primary objective of these problems is to strengthen algorithmic fundamental
 | 0027 | Remove Element | Two Pointers / Write Pointer |
 | 0605 | Can Place Flowers | Greedy / Local Placement |
 | 0206 | Reverse Linked List | Linked List Reversal / Previous-Current-Next |
+| 0876 | Middle of the Linked List | Fast & Slow Pointers |
 
 ---
 
