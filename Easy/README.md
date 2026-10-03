@@ -10,9 +10,9 @@ The primary objective of these problems is to strengthen algorithmic fundamental
 
 | Difficulty | Solved |
 |------------|--------|
-| Easy | **46** |
+| Easy | **48** |
 
-**Last Updated:** 01 October 2026
+**Last Updated:** 03 October 2026
 
 ---
 
@@ -66,6 +66,8 @@ The primary objective of these problems is to strengthen algorithmic fundamental
 | 0605 | Can Place Flowers | Greedy / Local Placement |
 | 0206 | Reverse Linked List | Linked List Reversal / Previous-Current-Next |
 | 0876 | Middle of the Linked List | Fast & Slow Pointers |
+| 0643 | Maximum Average Subarray I | Sliding Window |
+| 0485 | Max Consecutive Ones | Consecutive Sequence Tracking / Running Count |
 
 ---
 
@@ -120,6 +122,7 @@ Through these problems, the following reusable patterns have been learned and re
 - Previous / Current / Next Reference Manipulation
 - Adjacent Node Comparison
 - In-Place Node Deletion / Reference Skipping
+- Sliding Window
 
 This list will continue to expand as new patterns are encountered.
 
