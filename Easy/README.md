@@ -10,9 +10,9 @@ The primary objective of these problems is to strengthen algorithmic fundamental
 
 | Difficulty | Solved |
 |------------|--------|
-| Easy | **49** |
+| Easy | **50** |
 
-**Last Updated:** 06 October 2026
+**Last Updated:** 07 October 2026
 
 ---
 
@@ -69,6 +69,7 @@ The primary objective of these problems is to strengthen algorithmic fundamental
 | 0643 | Maximum Average Subarray I | Sliding Window |
 | 0485 | Max Consecutive Ones | Consecutive Sequence Tracking / Running Count |
 | 1047 | Remove All Adjacent Duplicates In String | Stack / Adjacent Duplicate Removal |
+| 0804 | Unique Morse Code Words | String Encoding / Hash Map |
 
 ---
 
@@ -125,6 +126,7 @@ Through these problems, the following reusable patterns have been learned and re
 - In-Place Node Deletion / Reference Skipping
 - Sliding Window
 - Adjacent Duplicate Removal
+- String Encoding
 
 This list will continue to expand as new patterns are encountered.
 
