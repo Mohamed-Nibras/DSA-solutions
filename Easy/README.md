@@ -10,9 +10,9 @@ The primary objective of these problems is to strengthen algorithmic fundamental
 
 | Difficulty | Solved |
 |------------|--------|
-| Easy | **51** |
+| Easy | **52** |
 
-**Last Updated:** 08 October 2026
+**Last Updated:** 10 October 2026
 
 ---
 
@@ -71,6 +71,7 @@ The primary objective of these problems is to strengthen algorithmic fundamental
 | 1047 | Remove All Adjacent Duplicates In String | Stack / Adjacent Duplicate Removal |
 | 0804 | Unique Morse Code Words | String Encoding / Hash Map |
 | 0496 | Next Greater Element I | Forward Traversal / Linear Search |
+| 1365 | How Many Numbers Are Smaller Than the Current Number | Brute Force / Nested Loop Counting |
 
 ---
 
