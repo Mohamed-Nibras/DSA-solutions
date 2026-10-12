@@ -11,7 +11,7 @@ The primary objective of these problems is to strengthen algorithmic thinking, d
 |------------|--------|
 | Medium | **1** |
 
-**Last Updated:** 05 October 2026
+**Last Updated:** 12 October 2026
 
 ---
 
