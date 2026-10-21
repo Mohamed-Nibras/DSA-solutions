@@ -10,9 +10,9 @@ The primary objective of these problems is to strengthen algorithmic fundamental
 
 | Difficulty | Solved |
 |------------|--------|
-| Easy | **52** |
+| Easy | **53** |
 
-**Last Updated:** 20 October 2026
+**Last Updated:** 21 October 2026
 
 ---
 
@@ -72,6 +72,7 @@ The primary objective of these problems is to strengthen algorithmic fundamental
 | 0804 | Unique Morse Code Words | String Encoding / Hash Map |
 | 0496 | Next Greater Element I | Forward Traversal / Linear Search |
 | 1365 | How Many Numbers Are Smaller Than the Current Number | Brute Force / Nested Loop Counting |
+| 0118 | Pascal's Triangle | Previous Row Construction / Adjacent Pair Summation |
 
 ---
 
@@ -131,6 +132,7 @@ Through these problems, the following reusable patterns have been learned and re
 - String Encoding
 - Forward Traversal
 - Linear Search
+- Previous Row Construction
 
 This list will continue to expand as new patterns are encountered.
 
