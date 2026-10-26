@@ -10,9 +10,9 @@ The primary objective of these problems is to strengthen algorithmic fundamental
 
 | Difficulty | Solved |
 |------------|--------|
-| Easy | **53** |
+| Easy | **54** |
 
-**Last Updated:** 25 October 2026
+**Last Updated:** 26 October 2026
 
 ---
 
@@ -73,6 +73,7 @@ The primary objective of these problems is to strengthen algorithmic fundamental
 | 0496 | Next Greater Element I | Forward Traversal / Linear Search |
 | 1365 | How Many Numbers Are Smaller Than the Current Number | Brute Force / Nested Loop Counting |
 | 0118 | Pascal's Triangle | Previous Row Construction / Adjacent Pair Summation |
+| 0941 | Valid Mountain Array | Increasing / Decreasing Sequence |
 
 ---
 
@@ -133,6 +134,7 @@ Through these problems, the following reusable patterns have been learned and re
 - Forward Traversal
 - Linear Search
 - Previous Row Construction
+- Increasing / Decreasing Sequence
 
 This list will continue to expand as new patterns are encountered.
 
