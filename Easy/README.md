@@ -10,9 +10,9 @@ The primary objective of these problems is to strengthen algorithmic fundamental
 
 | Difficulty | Solved |
 |------------|--------|
-| Easy | **55** |
+| Easy | **56** |
 
-**Last Updated:** 28 October 2026
+**Last Updated:** 29 October 2026
 
 ---
 
@@ -75,6 +75,7 @@ The primary objective of these problems is to strengthen algorithmic fundamental
 | 0118 | Pascal's Triangle | Previous Row Construction / Adjacent Pair Summation |
 | 0941 | Valid Mountain Array | Increasing / Decreasing Sequence |
 | 1002 | Find Common Characters | Character Frequency Counting / Minimum Frequency Tracking |
+| 0929 | Unique Email Addresses | String Normalization / Hash Set |
 
 ---
 
@@ -137,6 +138,7 @@ Through these problems, the following reusable patterns have been learned and re
 - Previous Row Construction
 - Increasing / Decreasing Sequence
 - Minimum Frequency Tracking
+- String Normalization
 
 This list will continue to expand as new patterns are encountered.
 
