@@ -1,51 +1,53 @@
+
 """
-LeetCode 929 - Unique Email Addresses
+LeetCode 941 - Valid Mountain Array
 
 Difficulty: Easy
 
 Pattern:
-- String Normalization
-- Hash Set
+- Increasing and Decreasing Sequence
+- State Tracking
 
 Topics (LeetCode):
 - Array
-- String
-- Hash Table
 
-Time Complexity: O(n * m)
-Auxiliary Space Complexity: O(n * m)
+Time Complexity: O(n)
+Auxiliary Space Complexity: O(1)
 
-Date Solved: 2026-10-29
+Date Solved: 2026-10-26
 Last Reinforced: N/A
 
 Notes:
-- Split each email into its local name and domain using "@".
-- If "+" exists in the local name, ignore it and everything
-  after the first "+".
-- Remove all periods from the remaining local name.
-- Combine the normalized local name with the original domain.
-- Store normalized email addresses in a set to eliminate
-  duplicates.
-- Return the number of unique email addresses.
+- Return False if the array contains fewer than three elements.
+- Track whether an increasing sequence has occurred and whether
+  the sequence has started decreasing.
+- Elements must strictly increase before the peak and strictly
+  decrease after the peak.
+- Equal adjacent elements and any increase after the descent
+  begins make the array invalid.
+- Return True only when both the increasing and decreasing
+  phases have occurred.
 """
 
 
 class Solution(object):
-    def numUniqueEmails(self, emails):
+    def validMountainArray(self, arr):
 
-        unique = set()
+        if len(arr) < 3:
+            return False
 
-        for email in emails:
-            domain = email.split("@")
-            local = domain[0]
+        increase = False
+        decrease = False
 
-            for i in range(len(local)):
-                if local[i] == "+":
-                    local = local[:i]
-                    break
+        for i in range(1, len(arr)):
 
-            local = local.replace(".", "")
-            domain[0] = local
-            unique.add(domain[0] + "@" + domain[1])
+            if arr[i] > arr[i - 1] and not decrease:
+                increase = True
 
-        return len(unique)
+            elif increase and arr[i] < arr[i - 1]:
+                decrease = True
+                
+            else:
+                return False
+
+        return increase and decrease
