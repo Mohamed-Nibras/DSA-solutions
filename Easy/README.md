@@ -10,9 +10,9 @@ The primary objective of these problems is to strengthen algorithmic fundamental
 
 | Difficulty | Solved |
 |------------|--------|
-| Easy | **57** |
+| Easy | **58** |
 
-**Last Updated:** 02 November 2026
+**Last Updated:** 03 November 2026
 
 ---
 
@@ -77,6 +77,7 @@ The primary objective of these problems is to strengthen algorithmic fundamental
 | 1002 | Find Common Characters | Character Frequency Counting / Minimum Frequency Tracking |
 | 0929 | Unique Email Addresses | String Normalization / Hash Set |
 | 1295 | Find Numbers with Even Number of Digits | Digit Counting / Mathematical Operations |
+| 1221 | Split a String in Balanced Strings | Frequency Counting / State Tracking |
 
 ---
 
@@ -140,6 +141,7 @@ Through these problems, the following reusable patterns have been learned and re
 - Increasing / Decreasing Sequence
 - Minimum Frequency Tracking
 - String Normalization
+- State Tracking
 
 This list will continue to expand as new patterns are encountered.
 
