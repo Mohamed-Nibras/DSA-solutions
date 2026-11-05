@@ -10,9 +10,9 @@ The primary objective of these problems is to strengthen algorithmic fundamental
 
 | Difficulty | Solved |
 |------------|--------|
-| Easy | **59** |
+| Easy | **60** |
 
-**Last Updated:** 04 November 2026
+**Last Updated:** 05 November 2026
 
 ---
 
@@ -79,6 +79,7 @@ The primary objective of these problems is to strengthen algorithmic fundamental
 | 1295 | Find Numbers with Even Number of Digits | Digit Counting / Mathematical Operations |
 | 1221 | Split a String in Balanced Strings | Frequency Counting / State Tracking |
 | 1207 | Unique Number of Occurrences | Frequency Counting / Hash Set |
+| 0414 | Third Maximum Number | Set + Sorting |
 
 ---
 
@@ -91,6 +92,7 @@ Through these problems, the following reusable patterns have been learned and re
 - Hash Map
 - Frequency Map
 - Set
+- Sorting
 - Two Pointers
 - Three Pointers
 - Stack / LIFO
