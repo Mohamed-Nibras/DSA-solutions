@@ -10,9 +10,9 @@ The primary objective of these problems is to strengthen algorithmic fundamental
 
 | Difficulty | Solved |
 |------------|--------|
-| Easy | **61** |
+| Easy | **62** |
 
-**Last Updated:** 06 November 2026
+**Last Updated:** 09 November 2026
 
 ---
 
@@ -81,6 +81,7 @@ The primary objective of these problems is to strengthen algorithmic fundamental
 | 1207 | Unique Number of Occurrences | Frequency Counting / Hash Set |
 | 0414 | Third Maximum Number | Set + Sorting |
 | 2215 | Find the Difference of Two Arrays | Set Difference |
+| 0905 | Sort Array By Parity | Two Pointers / In-Place Swapping |
 
 ---
 
