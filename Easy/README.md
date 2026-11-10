@@ -10,7 +10,7 @@ The primary objective of these problems is to strengthen algorithmic fundamental
 
 | Difficulty | Solved |
 |------------|--------|
-| Easy | **63** |
+| Easy | **64** |
 
 **Last Updated:** 10 November 2026
 
@@ -83,6 +83,7 @@ The primary objective of these problems is to strengthen algorithmic fundamental
 | 2215 | Find the Difference of Two Arrays | Set Difference |
 | 0905 | Sort Array By Parity | Two Pointers / In-Place Swapping |
 | 0509 | Fibonacci Number | Iterative Dynamic Programming / State Tracking |
+| 1732 | Find the Highest Altitude | Prefix Sum / Running Sum |
 
 ---
 
