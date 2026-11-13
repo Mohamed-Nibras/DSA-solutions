@@ -9,9 +9,9 @@ The primary objective of these problems is to strengthen algorithmic thinking, d
 
 | Difficulty | Solved |
 |------------|--------|
-| Medium | **2** |
+| Medium | **3** |
 
-**Last Updated:** 12 November 2026
+**Last Updated:** 13 November 2026
 
 ---
 
@@ -21,6 +21,7 @@ The primary objective of these problems is to strengthen algorithmic thinking, d
 |---:|---------|-----------------|
 | 0049 | Group Anagrams | Frequency Signature / Hash Map Grouping |
 | 0238 | Product of Array Except Self | Prefix Sum / Suffix Product |
+| 0003 | Longest Substring Without Repeating Characters | Sliding Window / Hash Map |
 
 ---
 
@@ -32,6 +33,7 @@ Through these problems, the following reusable patterns have been learned and re
 - Frequency Signature
 - Hash Map Grouping
 - Suffix Product
+- Sliding Window
 
 This list will continue to expand as new patterns are encountered.
 
