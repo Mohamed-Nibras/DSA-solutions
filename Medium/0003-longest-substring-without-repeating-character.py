@@ -15,7 +15,7 @@ Topics (LeetCode):
 Time Complexity: O(n)
 Auxiliary Space Complexity: O(min(n, character set size))
 Date Solved: 2026-11-13
-Last Reinforced: N/A
+Last Reinforced: 2026-11-16
 
 Notes:
 Initial attempt used string manipulation to maintain a substring without
@@ -61,3 +61,24 @@ class Solution(object):
             max_length = max(max_length, current_length)
 
         return max_length
+
+        # MAX_LENGTH = 0
+        # LENGTH = 0
+
+        # for i in range(len(s)):
+        #     seen = set()
+        #     LENGTH = 0
+        #     for j in range(i, len(s)):
+        #         if s[j] in seen:
+        #             break
+        #         else:
+        #             seen.add(s[j])
+        #             LENGTH += 1
+        #             if LENGTH > MAX_LENGTH:
+        #                 MAX_LENGTH = LENGTH
+
+        # return MAX_LENGTH
+
+
+A = Solution()
+print(A.lengthOfLongestSubstring("pwwkew"))
