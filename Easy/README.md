@@ -10,9 +10,9 @@ The primary objective of these problems is to strengthen algorithmic fundamental
 
 | Difficulty | Solved |
 |------------|--------|
-| Easy | **65** |
+| Easy | **66** |
 
-**Last Updated:** 12 November 2026
+**Last Updated:** 17 November 2026
 
 ---
 
@@ -85,6 +85,7 @@ The primary objective of these problems is to strengthen algorithmic fundamental
 | 0509 | Fibonacci Number | Iterative Dynamic Programming / State Tracking |
 | 1732 | Find the Highest Altitude | Prefix Sum / Running Sum |
 | 1160 | Find Words That Can Be Formed by Characters | Character Frequency Counting |
+| 1299 | Replace Elements with Greatest Element on Right Side | Running Maximum |
 
 ---
 
